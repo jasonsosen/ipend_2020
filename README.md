@@ -14,9 +14,9 @@
 
 アームの重心座標 とその並進速度は
 
-$
+\begin{equation}
 X_1(t) & = & l_1\cos(\theta_1(t))
-$
+\end{equation}
 
 
 

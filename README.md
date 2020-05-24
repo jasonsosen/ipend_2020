@@ -13,14 +13,10 @@
 
 
 アームの重心座標 とその並進速度は
-$$
-X_1(t) & = & l_1\cos(\theta_1(t)) \\
-Y_1(t) & = & l_1\sin(\theta_1(t)) \\
-Z_1(t) & = & 0\\
-\dot{X}_1(t) & = & -l_1\dot{\theta}_1(t)\sin(\theta_1(t)) \\
-\dot{Y}_1(t) & = & l_1\dot{\theta}_1\cos(\theta_1(t)) \\
-\dot{Z}_1(t) & = & 0
-$$
+
+$
+X_1(t) & = & l_1\cos(\theta_1(t))
+$
 
 
 
